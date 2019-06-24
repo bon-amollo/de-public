@@ -49,11 +49,33 @@ The output should be saved into a CSV file named **Output.csv**.
 
 
 ### Submission guidelines
-1. Include all source code so that we are able to
+
+Use any of the following methods in submitting the solution
+
+**Git Repository (preferred)**
+
+1. Create a public git repository that will contain your solution.
+
+2. Create a git branch with the name *PLS0001* and commit all your work in it.
+
+3. Include all source code and instructions in the git branch so that we are able to
    build, package, and run your application.
 
-2. Where possible submit through Github, otherwise package as a
-   single zip file and upload to a cloud storage service.
+4. Create a pull request for merging *PLS0001* to *master* branch.
+   Then send us the pull request.
+
+
+**File Storage**
+
+1. Save your solution with any file storage service providers such as
+Google Drive, AWS S3, Dropbox, e.t.c
+
+2. Send us the link to the solution. Ensure the solution can be accessed publicly.
+
+**Jupyter Notebook**
+
+1. Create a Jupyter notebook with your solution and send us the link to the notebook.
+Ensure this notebook is publicly accessible.
 
 
 ### Implementation notes
