@@ -1,0 +1,9 @@
+network,product,yearmonth,amount
+Network 1,Loan Product 1,2016Mar,1000.00
+Network 2,Loan Product 1,2016Mar,1122.00
+Network 3,Loan Product 2,2016Mar,2084.00
+Network 1,Loan Product 2,2016Mar,3098.00
+Network 2,Loan Product 1,2016Apr,5671.00
+Network 3,Loan Product 3,2016Apr,1928.00
+Network 2,Loan Product 3,2016Apr,1747.00
+Network 1,Loan Product 2,2016Apr,1801.00
